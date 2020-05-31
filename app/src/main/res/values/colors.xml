@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#344955</color>
+    <color name="colorPrimaryDark">#344955</color>
+    <color name="colorAccent">#344955</color>
+    <color name="Black">#000106</color>
+    <color name="Text">#eca0a7ab</color>
+    <color name="CollegeLink">#FFFFFF</color>
+</resources>
